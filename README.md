@@ -17,8 +17,8 @@
 ### Data
 Input->output:
 
-![image](https://github.com/shellswestern/Parallel_Computing/blob/master/Project1/image.png)
-![image](https://github.com/shellswestern/Parallel_Computing/blob/master/Project1/result.png)
+![image](https://github.com/Dan-Jia/Parallel_Computing/blob/master/Project1/image.png)
+![image](https://github.com/Dan-Jia/Parallel_Computing/blob/master/Project1/result.png)
 
 
 ## Project2 (Matrix-Vector Product in 7 methods, Using CUDA)
